@@ -64,3 +64,5 @@
 [17:04:38] [Server thread/INFO]: Done (28.157s)! For help, type "help"
 [17:04:38] [Server thread/INFO]: jorge[/[0:0:0:0:0:0:0:1%0]:42326] logged in with entity id 111 at (5.5, 105.0, 3.5)
 [17:04:38] [Server thread/INFO]: jorge joined the game
+[17:04:58] [Server thread/INFO]: jorge lost connection: Disconnected
+[17:04:58] [Server thread/INFO]: jorge left the game
